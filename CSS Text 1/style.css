@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    width: 100%;
+    height: 100px;
+    background-color: #3598DB;
+}
+nav .div1 {
+    padding-top: 30px;
+    padding-left: 40px;
+}
+nav .div1 h2 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+nav .div1 p {
+    color: white;
+}
+main {
+    width: 100%;
+    height: 450px;
+    background-color: #E5F3F4;
+    padding-top: 30px;
+}
+main .text {
+    width: 50%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #29AD62;
+    background-color: #2DCC70;
+}
+main .text .text1 {
+    padding: 30px 30px;
+    margin-bottom: 70px;
+}
+main .text .text1 span {
+    float: right;
+}
+main .text .text2 {
+    width: 50%;
+    height: 150px;
+    border: 5px solid #B83B2E;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: #E84C3D;
+    text-align: center;
+}
+main .text .text2 p {
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+main .text .text2 a {
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+section {
+    width: 100%;
+    height: 450px;
+    background-color: #2D3E50;
+}
+section .div2 {
+    padding-top: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+section .div2 h1 {
+    color: white;
+    font-size: 35px;
+}
+section .div2 p {
+    font-size: 20px;
+    color: white;
+}
+footer {
+    width: 100%;
+    height: 70px;
+    background-color: #1C2124;
+}
+footer ul {
+    text-align: center;
+    padding-top: 23px;
+}
+footer ul li {
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+}
+footer ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #254F68;
+}
